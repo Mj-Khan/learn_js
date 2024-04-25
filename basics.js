@@ -1,3 +1,7 @@
+// "Any Application that can be written in JavaScript,
+// Will eventually be written in JavaScript."
+// Jeff Atwood
+
 // document.getElementById("count-el").innerText = 5
 
 let count = 0
